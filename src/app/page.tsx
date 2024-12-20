@@ -75,7 +75,7 @@ export default function Home() {
 					priority
 				/>
 				<p className="text-[#d63384] text-xl transition-transform duration-[.65s] animate-cray inline-block hover:scale-[1.18] font-mono bg-[#00000099] rounded-[13px] p-[4px] pr-[8px] pl-[8px] font-bold">
-					Stef
+					Arnav
 				</p>
 			</div>
 
@@ -324,16 +324,16 @@ export default function Home() {
 					<embed
 						className="p-[5px] w-auto align-top rounded-xl max-md:w-[100%]"
 						type="text/html"
-						src="https://github-stats-stef-00012.vercel.app/api?username=Stef-00012&show_icons=true&theme=tokyonight"
+						src="https://github-stats-Arnav-00012.vercel.app/api?username=Arnav-00012&show_icons=true&theme=tokyonight"
 					/>
 					<embed
 						className="p-[5px] w-auto align-top rounded-xl max-md:w-[100%]"
 						type="text/html"
-						src="https://github-stats-stef-00012.vercel.app/api/top-langs/?username=Stef-00012&theme=tokyonight"
+						src="https://github-stats-Arnav-00012.vercel.app/api/top-langs/?username=Arnav-00012&theme=tokyonight"
 					/>
 					<embed
 						className="p-[5px] w-auto align-top rounded-xl max-md:w-[100%]"
-						src="https://github-readme-streak-stats-stef-00012.vercel.app/?user=Stef-00012&theme=radical"
+						src="https://github-readme-streak-stats-Arnav-00012.vercel.app/?user=Arnav-00012&theme=radical"
 					/>
 				</div>
 			</Collapsible>
@@ -359,7 +359,7 @@ export default function Home() {
 
 			<footer className="text-center bg-[#000000a1] text-white mt-5">
 				<p className="mb-0 p-[15px]">
-					© {new Date().getFullYear()} Stefano Del Prete. All rights reserved.
+					© {new Date().getFullYear()} Arnavano Del Prete. All rights reserved.
 				</p>
 			</footer>
 

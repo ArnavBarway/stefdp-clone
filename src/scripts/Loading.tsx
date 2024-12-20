@@ -10,7 +10,7 @@ export default function handleTyping(
 			lifeLike: true,
 		})
 		.type(
-			'<span style="color: #118c0a;">stef@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
+			'<span style="color: #118c0a;">arnav@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
 			{ instant: true, delay: 500 },
 		)
 		.type("whereis love")
@@ -18,7 +18,7 @@ export default function handleTyping(
 		.type("love:", { instant: true })
 		.break({ instant: true })
 		.type(
-			'<span style="color: #118c0a;">stef@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
+			'<span style="color: #118c0a;">arnav@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
 			{ instant: true, delay: 2000 },
 		)
 		.type("cat love")
@@ -26,7 +26,7 @@ export default function handleTyping(
 		.type("cat: love: No such file or directory", { instant: true })
 		.break({ instant: true })
 		.type(
-			'<span style="color: #118c0a;">stef@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
+			'<span style="color: #118c0a;">arnav@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
 			{ instant: true, delay: 4000 },
 		)
 		.type(":(", { delay: 1000 })
@@ -35,21 +35,21 @@ export default function handleTyping(
 		.options({ speed: 50 })
 		.type("sudo rm -rf --no-preserve-root /", { delay: 300 })
 		.break({ instant: true })
-		.type("[sudo] password for stef: ", { instant: true, delay: 800 })
+		.type("[sudo] password for arnav: ", { instant: true, delay: 800 })
 		.break({ instant: true })
 		.type(
-			'<span style="color: #118c0a;">stef@Life</span>: <span style="color: #2c5bc7;">/</span> $ ^C',
+			'<span style="color: #118c0a;">arnav@Life</span>: <span style="color: #2c5bc7;">/</span> $ ^C',
 			{ instant: true, delay: 300 },
 		)
 		.break({ instant: true })
 		.type(
-			'<span style="color: #118c0a;">stef@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
+			'<span style="color: #118c0a;">arnav@Life</span>: <span style="color: #2c5bc7;">/</span> $ ',
 			{ instant: true, delay: 500 },
 		)
-		.type("ssh website@stefdp.lol")
+		.type("ssh website@arnxv.is-a.dev")
 		.break({ instant: true })
 		.type(
-			"The authenticity of host 'stefdp.lol (173.208.244.6)' can't be established.",
+			"The authenticity of host 'arnxv.is-a.dev (216.198.79.1)' can't be established.",
 			{ instant: true },
 		)
 		.type(
@@ -64,18 +64,18 @@ export default function handleTyping(
 		.type("yes", { delay: 200 })
 		.break({ instant: true })
 		.type(
-			"Warning: Permanently added 'stefdp.lol,173.208.244.6' (ECDSA) to the list of known hosts.",
+			"Warning: Permanently added 'arnxv.is-a.dev,216.198.79.1' (ECDSA) to the list of known hosts.",
 			{ instant: true },
 		)
 		.break({ instant: true })
-		.type("website@stefdp.lol's password: ", { instant: true, delay: 500 })
+		.type("website@arnxv.is-a.dev's password: ", { instant: true, delay: 500 })
 		.type("****", { delay: 150 })
 		.type("***", { delay: 500 })
 		.delete(2)
 		.type("***", { delay: 400 })
 		.type("*****")
 		.break({ instant: true })
-		.type("website@stefdp.lol: ~/ $ ", { instant: true, delay: 500 })
+		.type("website@arnxv.is-a.dev: ~/ $ ", { instant: true, delay: 500 })
 		.type("sudo atp install stfe", { delay: 300 })
 		.type("-website -y")
 		.options({ speed: 25 })
@@ -135,13 +135,13 @@ export default function handleTyping(
 		})
 		.delete(24, { instant: true, delay: 100 })
 		.type(
-			"Get:1 https://stefdp.lol/download googletagmanager font-inter stef-website highlightjs highlightjs-atom-one-theme jbox jquery analytics typeit [548 kB]",
+			"Get:1 https://arnxv.is-a.dev/download googletagmanager font-inter arnav-website highlightjs highlightjs-atom-one-theme jbox jquery analytics typeit [548 kB]",
 			{ instant: true },
 		)
 		.break({ instant: true, delay: 560 })
 		.type("Fetched 548 kB in 1s (1972 kB/s)", { instant: true })
 		.break({ instant: true, delay: 300 })
-		.type("Selecting previously unselected package stef-website.", {
+		.type("Selecting previously unselected package arnav-website.", {
 			instant: true,
 		})
 		.break({ instant: true })
@@ -154,18 +154,18 @@ export default function handleTyping(
 			instant: true,
 		})
 		.break({ instant: true, delay: 400 })
-		.type("Preparing to unpack .../stef-website_latest.deb ...", {
+		.type("Preparing to unpack .../arnav-website_latest.deb ...", {
 			instant: true,
 		})
 		.break({ instant: true })
-		.type("Unpacking stef-website (latest) ...", { instant: true })
+		.type("Unpacking arnav-website (latest) ...", { instant: true })
 		.break({ instant: true, delay: 450 })
-		.type("Setting up stef-website (latest) ...", { instant: true })
+		.type("Setting up arnav-website (latest) ...", { instant: true })
 		.break({ instant: true, delay: 300 })
 		.type("Processing triggers for man-db (2.9.1-1) ...", { instant: true })
 		.break({ instant: true, delay: 80 })
-		.type("website@stefdp.lol: ~/ $ ", { instant: true })
-		.type("stef-website dlpeoy --pr")
+		.type("website@arnxv.is-a.dev: ~/ $ ", { instant: true })
+		.type("arnav-website dlpeoy --pr")
 		.options({ speed: 25 })
 		.move(-7)
 		.options({ speed: 50 })
